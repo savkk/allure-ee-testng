@@ -7,6 +7,14 @@
     <groupId>com.github.savkk</groupId>
     <artifactId>allure-ee-testng</artifactId>
     <version>0.0.1</version>
+    <name>Allure EE Integration</name>
+
+    <developers>
+        <developer>
+            <name>Anatoliy Surin</name>
+            <email>savkk@bk.ru</email>
+        </developer>
+    </developers>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
